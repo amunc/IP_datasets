@@ -1,5 +1,5 @@
 # IP_datasets
-Datasets for paper <information pending>
+Datasets for paper "A mathematical analysis about the temporal and spatial characterization of the multi-class severity of an IP address"
 
 Fields:
 - ip: anonymized
