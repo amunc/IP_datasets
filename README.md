@@ -3,8 +3,8 @@ Datasets for paper "A mathematical analysis about the temporal and spatial chara
 
 Correspondences with paper nomenclature:
 - BL is may_2021_total.csv
-- D_1 is may_2021_changed.csv
-- D_2 is april_2022_changed.csv
+- D<sub>1</sub> is may_2021_changed.csv
+- D<sub>2</sub> is april_2022_changed.csv
 
 Fields:
 - ip: anonymized
